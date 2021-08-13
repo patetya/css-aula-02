@@ -1,0 +1,16 @@
+a{
+    color: darkgreen;
+}
+a:hover{
+    background-color: yellow;
+}
+a:active{
+    color: blue;
+}
+a:visited{
+        color: maroon;
+}
+p::first-letter{
+    text-transform: uppercase;
+    color: green;
+}
